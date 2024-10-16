@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 2021/22, when I first found my love for programming.  <br>🎓 Studying: Mobile Computing at FH Hagenberg.  <br>📱 Focus: App development with SwiftUI.  <br>⚽ Hobbies: Football.</p>
+<p align="left">✨ Coding journey began: 2021/22, when I first found my love for programming.  <br>🎓 Studying: Mobile Computing at FH Hagenberg.  <br>📱 Focus: App development with SwiftUI.  <br>⚽ Hobbies: Football.</p>
 
 ###
 
